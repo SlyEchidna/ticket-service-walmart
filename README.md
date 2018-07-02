@@ -1,5 +1,3 @@
-# ticket-service-walmart
-A ticket reservation service to be used by a fictional venue.
 # Ticket Service Coding Challenge
 Implement a simple ticket service that facilitates the discovery, temporary hold, and final reservation of seats within a high-demand performance
 venue.
