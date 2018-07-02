@@ -54,11 +54,12 @@ The solution was created using JDK 9.0.4 and Maven 3.5.4.
 ## How to build with Maven
 1. Download the project files to your computer.
 2. Shift + Right Click on the folder containing the pom.xml file.
-3. Type the following command to build the project.
+3. Click on "Open command window here"
+4. Type the following command to build the project.
 ```
     mvn package
 ```
-4. Type the following command run the project tests
+5. Type the following command run the project tests
 ```
     mvn test
 ```
